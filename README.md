@@ -1,11 +1,9 @@
 # QR Code Generator
-This is a simple QR code generator web application built using HTML, CSS, and JavaScript. It allows users to generate QR codes for various types of data such as URLs, text, and more.
+This is a simple QR code generator web application built using HTML, CSS, and JavaScript. It allows users to generate QR codes for URLs of their choice.
 
 ## Demo
 You can try out the live demo of the QR code generator [here](https://animated-medovik-b8b3da.netlify.app/).
 
-## Features
-* Generate QR codes for URLs, text, and other data types.
-* Customise the size and color of the generated QR code.
-* Download the generated QR code as an image file.
-* Responsive design for optimal viewing on different devices.
+## Contact
+Email: noahrubininv@gmail.com
+Linkedin: [Connect](https://www.linkedin.com/in/noah-rubin1/) with me on LinkedIn
